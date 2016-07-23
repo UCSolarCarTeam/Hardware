@@ -1,0 +1,12 @@
+[submodule "CCS-Hardware"]
+	path = CCS-Hardware
+	url = https://github.com/UCSolarCarTeam/CCS-Hardware
+[submodule "Aux-Testing-Hardware"]
+	path = Aux-Testing-Hardware
+	url = https://github.com/UCSolarCarTeam/Aux-Testing-Hardware
+[submodule "Driver-Controls-Hardware"]
+	path = Driver-Controls-Hardware
+	url = https://github.com/UCSolarCarTeam/Driver-Controls-Hardware
+[submodule "Lights-Controller-Hardware"]
+	path = Lights-Controller-Hardware
+	url = https://github.com/UCSolarCarTeam/Lights-Controller-Hardware
