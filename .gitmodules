@@ -10,3 +10,6 @@
 [submodule "Lights-Controller-Hardware"]
 	path = Lights-Controller-Hardware
 	url = https://github.com/UCSolarCarTeam/Lights-Controller-Hardware
+[submodule "Auxiliary-BMS-Hardware"]
+	path = Auxiliary-BMS-Hardware
+	url = https://github.com/UCSolarCarTeam/Auxiliary-BMS-Hardware.git
