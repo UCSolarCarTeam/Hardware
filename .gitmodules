@@ -13,3 +13,6 @@
 [submodule "Auxiliary-BMS-Hardware"]
 	path = Auxiliary-BMS-Hardware
 	url = https://github.com/UCSolarCarTeam/Auxiliary-BMS-Hardware.git
+[submodule "DCDC-Converter-Hardware"]
+	path = DCDC-Converter-Hardware
+	url = https://github.com/UCSolarCarTeam/DCDC-Converter-Hardware.git
