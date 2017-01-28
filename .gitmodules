@@ -16,3 +16,6 @@
 [submodule "DCDC-Converter-Hardware"]
 	path = DCDC-Converter-Hardware
 	url = https://github.com/UCSolarCarTeam/DCDC-Converter-Hardware.git
+[submodule "Misc-Hardware"]
+	path = Misc-Hardware
+	url = https://github.com/UCSolarCarTeam/Misc-Hardware.git
